@@ -1,0 +1,16 @@
+node_modules/
+dist/
+data/
+*.log
+.env
+.DS_Store
+*.swp
+*.swo
+coverage/
+.nyc_output/
+.vscode/
+.idea/
+*.sublime-*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
